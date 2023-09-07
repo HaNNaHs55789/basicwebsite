@@ -1,0 +1,84 @@
+h1{
+    color:rgb(146, 71, 117)
+    
+}
+
+h1{
+    text-align: center;
+    font-size: 50px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+h2{
+text-align: center;
+margin-top: 100px;
+color: rgb(88, 20, 75);
+font-size: 25px;
+}
+ol{
+   margin-left: 460px;
+   padding-inline: 30px;
+   padding-top: 30px;
+}
+body{
+    background-color: rgb(244, 224, 246);
+}
+p{
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: auto;
+    text-align: center;
+    max-width: 600px;
+}
+#rating{
+    text-align: center;
+}
+
+#back{
+    text-align: center;
+   
+    
+}
+#bookfun{
+    text-align: center;
+}
+ 
+    
+  
+
+
+table{
+background-color:rgb(245, 239, 247);
+border: 1px solid rgb(7, 43, 7);
+margin: 50px auto;
+}
+/* top, right, bottom, and left goes like a clock*/
+td,th {
+    border: 1px solid rgb(7, 43, 7);
+    padding:15px 20px 5px 20px
+}
+td{
+    text-align:center;
+}
+
+#backrate{
+    text-align: center;
+}
+
+p > a {
+    color:rgb(201, 17, 168)
+}
+h3{
+    text-align: center;
+    font-size: 15px;
+}
+#destell{
+    margin-top: 50px;
+   
+}
+#destear{
+    margin-top: 50px;
+}
+
+
+
